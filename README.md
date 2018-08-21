@@ -1,4 +1,4 @@
-# ci-teamcity-config-android-app
+# CI teamcity-config-android-app
 
 
 Documents
