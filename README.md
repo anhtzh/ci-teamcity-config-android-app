@@ -1,6 +1,6 @@
 # Teamcity CI with Android app
 
-Ref
+Reference
 
 - https://confluence.jetbrains.com/display/TCD18/Managing+Projects+and+Build+Configurations
 
